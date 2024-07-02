@@ -1,0 +1,52 @@
+/* CSS */
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+}
+.nav_list {
+    display: flex;
+    align-items: center;
+}
+.nav_list li {
+    list-style: none;
+    margin-right: 15px;
+}
+.list_btn {
+    background-color: #EC9706;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.menu span {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+  
+    .menu span {
+        display: block;
+    }
+    /* .menu.active{
+        display: block;
+    } */
+    .nav_list {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        display: none;
+        min-width: 100px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        color: black;
+        background-color: white;
+    }
+    .nav_list li {
+        padding: 10px;
+    }
+    .nav_list.active {
+        display: block;
+    }
+}
