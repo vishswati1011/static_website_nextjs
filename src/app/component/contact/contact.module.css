@@ -51,8 +51,7 @@
 }
 @media screen and (min-width:300px) and (max-width:768px){
     .form{
-        width: 300px;
-        padding: 20px;
+        width: 250px;
         margin-top: 50px;
     }
 }

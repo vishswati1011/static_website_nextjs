@@ -30,9 +30,9 @@
     .menu span {
         display: block;
     }
-    /* .menu.active{
-        display: block;
-    } */
+    .header h1{
+        font-size: 16px;
+    }
     .nav_list {
         margin: 0;
         padding: 0;
