@@ -56,17 +56,21 @@
     background-color: #fdf6e9;
   }
   .first {
-    padding: 30px;
+    padding: 0px;
     width: 100%;
+    align-items: center;
   }
   .first h1 {
     font-size: 30px;
+    margin-left: 50px;
   }
-  /* .first p {
-    width: 100%;
-  } */
+  .first p {
+    margin-left: 50px;
+  }
   .first button {
     padding: 5px;
+    margin-left: 50px;
+
   }
   .second {
     flex-direction: flex;

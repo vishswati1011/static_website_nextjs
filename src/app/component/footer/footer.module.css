@@ -21,8 +21,9 @@
 }
 .footer_section p{
     margin: 0px;
-    border-bottom: 1px solid #393939;
+    font-weight:bold ;
 }
+
 .footer_section ul{
     list-style-type: none;
     padding: 0px;
@@ -32,7 +33,6 @@
 }
 .footer_section ul li:hover{
     color: #EC9706;
-    /* cursor:progress; */
 }
 
 @media screen and (min-width:300px) and (max-width:768px) {
