@@ -7,6 +7,7 @@
   background-size: contain; /* This makes the image fit within the container */
   background-repeat: no-repeat;
   background-color: #fdf6e9;
+  background-size: 300px;
 }
 .first {
   padding: 100px;
