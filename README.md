@@ -1,16 +1,19 @@
 
 ## Getting Started
 First clone the repo 
-git clone 
-then install dependency
+
+git clone git@github.com:vishswati1011/static_website_nextjs.git
+
 npm i 
+
 run deployment server
+
 npm run dev
 
 ## Deployed link of vercel
 
 ### used tech skills 
-Next JS, Module CSS , react-icons
+Next JS, Module CSS, react-icons
 
 ###  It is a static website in next js with module css
 
