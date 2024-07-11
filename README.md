@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
-First, run the development server:
-
-```bash
+First clone the repo 
+git clone 
+then install dependency
+npm i 
+run deployment server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deployed link of vercel
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### used tech skills 
+Next JS, Module CSS , react-icons
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+###  It is a static website in next js with module css
 
-## Learn More
+### Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img width="1385" alt="Screenshot 2024-07-10 at 5 50 48 PM" src="https://github.com/vishswati1011/static_website_nextjs/assets/68458744/560ca715-1f7d-4826-a794-25a2d936a517">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img width="1390" alt="Screenshot 2024-07-10 at 5 51 04 PM" src="https://github.com/vishswati1011/static_website_nextjs/assets/68458744/12f436e1-75e2-4a20-8fc2-051e1ca35bb8">
 
-## Deploy on Vercel
+<img width="1387" alt="Screenshot 2024-07-10 at 5 51 24 PM" src="https://github.com/vishswati1011/static_website_nextjs/assets/68458744/bedf7ccc-4c0c-4dfb-a0df-427fcc2c7c26">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<img width="1389" alt="Screenshot 2024-07-10 at 5 51 53 PM" src="https://github.com/vishswati1011/static_website_nextjs/assets/68458744/c4ac7638-20bb-4128-941b-935498628a10">
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img width="1385" alt="Screenshot 2024-07-10 at 5 52 11 PM" src="https://github.com/vishswati1011/static_website_nextjs/assets/68458744/349ff619-9cfc-4fbc-87e4-427094f002d4">
+
+<img width="1387" alt="Screenshot 2024-07-10 at 5 52 42 PM" src="https://github.com/vishswati1011/static_website_nextjs/assets/68458744/f2c10b94-443c-4554-9d6f-81d6043f4647">
+
+
+
