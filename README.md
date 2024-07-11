@@ -12,6 +12,8 @@ npm run dev
 
 ## Deployed link of vercel
 
+git@github.com:vishswati1011/static_website_nextjs.git
+
 ### used tech skills 
 Next JS, Module CSS, react-icons
 
