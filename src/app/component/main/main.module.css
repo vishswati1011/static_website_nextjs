@@ -3,11 +3,11 @@
   width: 100%;
   height: 550px;
   background-image: url("/assets/back_image.png");
-  background-position: right center; /* This positions the image to the right */
-  background-size: contain; /* This makes the image fit within the container */
+  background-position: right center;
+  background-position: 100%;
+  background-size: contain;
   background-repeat: no-repeat;
   background-color: #fdf6e9;
-  background-size: 300px;
 }
 .first {
   padding: 100px;
